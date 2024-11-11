@@ -1,0 +1,19 @@
+body{
+  background-image: url("https://images.mktw.net/im-63456574?width=1260&height=840"); 
+
+
+        background-position: center ;
+        background-repeat: no-repeat; 
+        background-position-y: top;
+        background-size: cover;
+    
+        
+      }
+     
+      
+      table, tr, td{
+        border: 1px solid black;
+        background-color: whitesmoke;
+        background-color: rgba(245, 245, 245, 0.155);
+      }
+     
